@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+.btn-prueba{
+    @apply text-3xl text-blue-900 underline text-center
+}
+@tailwind utilities;
+
